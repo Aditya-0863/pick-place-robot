@@ -26,7 +26,7 @@ Arm was offset from robot center due to weight distribution. Added `ARM_OFFSET_P
 parameter to navigation frame instead of reprinting chassis.
 
 ## Files
-- [esp32_robot.ino](esp32_robot.ino) — Motor control, servo interpolation, UDP parser, watchdog
+- [esp32_robot.ino](ESP32.ino) — Motor control, servo interpolation, UDP parser, watchdog
 - [vision_controller.py](vision_controller.py) — OpenCV pipeline, state machine, navigation logic
 
 ## Demo Video
