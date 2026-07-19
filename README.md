@@ -30,4 +30,4 @@ parameter to navigation frame instead of reprinting chassis.
 - [vision_controller.py](Vision.py) — OpenCV pipeline, state machine, navigation logic
 
 ## Demo Video
-[Watch the robot in action](YOUR_LINKEDIN_POST_URL_HERE)
+[Watch the robot in action](https://www.linkedin.com/posts/aditya-anil-a48ba7359_robotics-embeddedsystems-opencv-ugcPost-7484576365644795904-moxu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlX8xgBJyX0IBHEsC9QDMeTRqP9eZLxdfw)
