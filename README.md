@@ -27,7 +27,7 @@ parameter to navigation frame instead of reprinting chassis.
 
 ## Files
 - [esp32_robot.ino](ESP32.ino) — Motor control, servo interpolation, UDP parser, watchdog
-- [vision_controller.py](vision_controller.py) — OpenCV pipeline, state machine, navigation logic
+- [vision_controller.py](Vision.py) — OpenCV pipeline, state machine, navigation logic
 
 ## Demo Video
 [Watch the robot in action](YOUR_LINKEDIN_POST_URL_HERE)
